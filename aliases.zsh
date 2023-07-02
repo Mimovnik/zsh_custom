@@ -1,5 +1,4 @@
 alias mimodisk="cd /run/media/mimovnik/MimoDisk"
-alias unity="cd /run/media/mimovnik/MimoDisk/UnityProjects"
 
 nvim_cd()
 {
