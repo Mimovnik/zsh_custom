@@ -1,5 +1,3 @@
-alias mimodisk="cd /run/media/mimovnik/MimoDisk"
-
 nvim_cd()
 {
     if [ -d "${1}" ]; then
